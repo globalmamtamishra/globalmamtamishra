@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=globalmamtamishra" alt="globalmamtamishra" /></a> </p>
 
 - 🌱 I’m currently learning **Springboot,Hibernate**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://geetamakadi123.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://globalmamtamishra.github.io/)
 - 💬 Ask me about **Java,DSA,JavaScript,css,html,Springboot,Hibernate**
 
 - 📫 How to reach me **mantumishra989@gmail.com**
